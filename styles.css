@@ -1,5 +1,5 @@
 /* Apply styles to the holder */
-.holder {
+.holder , .iteam-1{
   display: flex; /* Use flexbox */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
@@ -7,9 +7,9 @@
   height: 100vh; /* Take the full viewport height */
 }
 
-/* Apply styles to item-1 */
-.item-1 {
+.item {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: wheat;
+	padding:10px;
 }
