@@ -1,5 +1,5 @@
 /* Apply styles to the holder */
-.holder , .iteam-1{
+body{
   display: flex; /* Use flexbox */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
